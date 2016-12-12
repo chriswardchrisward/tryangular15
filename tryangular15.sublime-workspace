@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username"
+			],
+			[
+				"User",
+				"UserCreateSerializer"
+			],
+			[
+				"R",
+				"RetrieveAPIView"
+			],
+			[
+				"Model",
+				"model_type"
+			],
+			[
+				"vali",
+				"validated_data"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"parent",
+				"parent_obj"
+			],
+			[
+				"Comm",
+				"CommentSerializer"
+			],
+			[
+				"get",
+				"get_markdown"
+			],
+			[
+				"post",
+				"post_detail_url"
+			],
+			[
+				"queryset",
+				"queryset_list"
+			],
+			[
+				"PostLi",
+				"PostDetailAPIView"
+			],
+			[
+				"cleanded",
+				"cleaned_data"
+			],
+			[
+				"em",
+				"email2"
+			],
+			[
+				"login",
+				"login_view"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"conten",
+				"content_object"
+			],
+			[
+				"read",
+				"read_time"
+			],
+			[
+				"read_time",
+				"read_time_min"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Ht",
+				"HttpResponseRedirect"
+			],
+			[
+				"obj",
+				"object_id"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"initial",
+				"initial_data"
+			],
+			[
+				"p",
+				"preview-content"
+			],
+			[
+				"contetn",
+				"contentItem"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"list",
+				"list-style: "
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pro",
+				"products_two"
+			],
+			[
+				"Produ",
+				"ProductDetailView"
+			],
+			[
+				"Cate",
+				"CategoryDetailView"
+			],
+			[
+				"variation",
+				"variation_select"
+			],
+			[
+				"V",
+				"VariationInventoryFormSet"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"quer",
+				"queryset"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"prod",
+				"product_pk"
+			],
+			[
+				"new",
+				"new_filename"
+			],
+			[
+				"slug",
+				"slugify"
+			],
+			[
+				"Pro",
+				"ProductImage"
+			],
+			[
+				"Prod",
+				"ProductListView"
+			],
+			[
+				"o",
+				"get_object_or_404"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"Join",
+				"JoinFriends"
+			],
+			[
+				"new_join",
+				"new_join_old"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"sh",
+				"share_string"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"po",
+				"post_create"
+			],
+			[
+				"para",
+				"param_names"
+			],
+			[
+				"PHRA",
+				"PHRASE_FIRST"
+			],
+			[
+				"print",
+				"print_last_word"
+			],
+			[
+				"current",
+				"current_file"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"cheese",
+				"cheese_and_crackers"
+			],
+			[
+				"my",
+				"my_height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cward/projects/djangular/README.md",
+		"/Users/cward/projects/blog-api/src/accounts/api/serializers.py",
+		"/Users/cward/projects/blog-api/src/comments/api/serializers.py",
+		"/Users/cward/projects/blog-api/src/posts/api/serializers.py",
+		"/Users/cward/projects/blog-api/src/accounts/api/urls.py",
+		"/Users/cward/projects/blog-api/src/accounts/api/views.py",
+		"/Users/cward/projects/blog-api/src/comments/api/views.py",
+		"/Users/cward/projects/blog-api/src/posts/api/views.py",
+		"/Users/cward/projects/blog-api/src/posts/api/pagination.py",
+		"/Users/cward/projects/blog-api/src/posts/models.py",
+		"/Users/cward/projects/blog-api/src/comments/api/urls.py",
+		"/Users/cward/projects/blog-api/src/posts/api/permissions.py",
+		"/Users/cward/projects/blog-api/src/comments/models.py",
+		"/Users/cward/projects/blog-api/src/blog/urls.py",
+		"/Users/cward/projects/blog-api/src/accounts/api/__init__.py",
+		"/Users/cward/projects/blog-api/src/comments/urls.py",
+		"/Users/cward/projects/blog-api/requirements.txt",
+		"/Users/cward/projects/blog-api/src/posts/api/__init__.py",
+		"/Users/cward/projects/blog-api/src/comments/api/__init__.py",
+		"/Users/cward/projects/blog-api/src/comments/api/serilaizers.py",
+		"/Users/cward/projects/blog-api/src/posts/api/urls.py",
+		"/Users/cward/projects/blog-api/.gitignore",
+		"/Users/cward/projects/blog-api/src/templates/base.html",
+		"/Users/cward/projects/blog-api/src/blog/settings.py",
+		"/Users/cward/projects/blog-api/blog.sublime-project",
+		"/Users/cward/projects/chrisblogv1/src/blog/settings/local.py",
+		"/Users/cward/projects/chrisblogv1/src/blog/settings/base.py",
+		"/Users/cward/projects/chrisblogv1/src/requirements.txt",
+		"/Users/cward/projects/blog_django/src/templates/post_detail.html",
+		"/Users/cward/projects/blog_django/src/comments/models.py",
+		"/Users/cward/projects/blog_django/src/templates/form.html",
+		"/Users/cward/projects/blog_django/src/comments/urls.py",
+		"/Users/cward/projects/blog_django/src/templates/confirm_delete.html",
+		"/Users/cward/projects/blog_django/src/posts/utils.py",
+		"/Users/cward/projects/blog_django/src/posts/models.py",
+		"/Users/cward/projects/blog_django/src/templates/comment_thread.html",
+		"/Users/cward/projects/blog_django/src/blog/urls.py",
+		"/Users/cward/projects/blog_django/src/posts/views.py",
+		"/Users/cward/projects/blog_django/src/blog/settings.py",
+		"/Users/cward/projects/blog_django/src/comments/forms.py",
+		"/Users/cward/projects/blog_django/src/static/css/base.css",
+		"/Users/cward/projects/blog_django/src/templates/post_form.html",
+		"/Users/cward/projects/blog_django/src/templates/base.html",
+		"/Users/cward/projects/blog_django/src/posts/forms.py",
+		"/Users/cward/projects/blog_django/src/comments/admin.py",
+		"/Users/cward/projects/blog_django/src/templates/post_list.html",
+		"/Users/cward/projects/blog_django/src/blog/wsgi.py",
+		"/Users/cward/projects/blog_django/src/trydjango19/wsgi.py",
+		"/Users/cward/projects/blog_django/src/trydjango19/urls.py",
+		"/Users/cward/projects/blog_django/src/trydjango19/settings.py",
+		"/Users/cward/projects/blog_django/src/manage.py",
+		"/Users/cward/projects/blog_django/trydjango19.sublime-workspace",
+		"/Users/cward/projects/swanson_speech_therapy/scss/revert.html",
+		"/Users/cward/projects/swanson_speech_therapy/css/bootstrap.css",
+		"/Users/cward/projects/swanson_speech_therapy/css/bootstrap.min.css",
+		"/Users/cward/projects/swanson_speech_therapy/Images/OK_Stock_Photos/Icons/Swanson Speech Therapy Ballard Seattle | bubble-frame3.png",
+		"/Users/cward/projects/eCommerce2/src/eCommerce2/urls.py",
+		"/Users/cward/projects/eCommerce2/src/products/urls_categories.py",
+		"/Users/cward/projects/eCommerce2/src/products/templates/products/product_detail.html",
+		"/Users/cward/projects/eCommerce2/src/products/forms.py",
+		"/Users/cward/projects/eCommerce2/src/products/mixins.py",
+		"/Users/cward/projects/eCommerce2/src/templates/base.html",
+		"/Users/cward/projects/eCommerce2/src/static_in_pro/our_static/css/custom.css",
+		"/Users/cward/projects/eCommerce2/src/templates/navbar.html",
+		"/Users/cward/projects/eCommerce2/src/products/urls.py",
+		"/Users/cward/projects/eCommerce2/src/products/templates/products/variation_list.html",
+		"/Users/cward/projects/eCommerce2/src/templates/javascript.html",
+		"/Users/cward/projects/eCommerce2/src/products/templates/mixins.py",
+		"/Users/cward/projects/eCommerce2/src/products/admin.py",
+		"/Users/cward/projects/eCommerce2/src/products/templates/forms.py",
+		"/Users/cward/projects/eCommerce2/src/products/templates/products/forms.py",
+		"/Users/cward/projects/eCommerce2/src/products/templates/variation_list.html",
+		"/Users/cward/projects/eCommerce2/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/Users/cward/projects/eCommerce2/src/eCommerce2/settings/local.py",
+		"/Users/cward/projects/eCommerce2/src/products/views.py",
+		"/Users/cward/projects/eCommerce2/src/templates/home.html",
+		"/Users/cward/projects/eCommerce2/src/products/templates/products/product_list.html",
+		"/Users/cward/projects/eCommerce2/src/trydjango18/wsgi.py",
+		"/Users/cward/projects/eCommerce2/src/trydjango18/urls.py",
+		"/Users/cward/projects/eCommerce2/src/trydjango18/settings/production.py",
+		"/Users/cward/projects/eCommerce2/src/trydjango18/settings/local.py",
+		"/Users/cward/projects/eCommerce2/src/trydjango18/settings/base.py",
+		"/Users/cward/projects/eCommerce2/src/trydjango18/old_settings.py",
+		"/Users/cward/projects/eCommerce2/src/manage.py",
+		"/Users/cward/projects/eCommerce2/src/.gitignore",
+		"/Users/cward/projects/lwc_django/src/.gitignore",
+		"/Users/cward/projects/lwc_django/src/Procfile",
+		"/Users/cward/projects/lwc_django/src/requirements.txt",
+		"/Users/cward/projects/lwc_django/src/lwc_django/settings/local.py",
+		"/Users/cward/projects/lwc_django/src/lwc_django/Procfile",
+		"/Users/cward/projects/lwc_django/src/templates/base.html",
+		"/Users/cward/projects/lwc_django/src/templates/share.html",
+		"/Users/cward/projects/lwc_django/src/templates/home.html",
+		"/Users/cward/projects/lwc_django/src/lwc_django/urls.py",
+		"/Users/cward/projects/lwc_django/src/templates/navbar.html",
+		"/Users/cward/projects/lwc_django/src/lwc_django/settings_old.py",
+		"/Users/cward/projects/lwc_django/src/lwc_django/settings/__init__.py",
+		"/Users/cward/projects/lwc_django/src/templates/404.html",
+		"/Users/cward/projects/lwc_django/src/templates/400.html",
+		"/Users/cward/projects/lwc_django/src/templates/500.html",
+		"/Users/cward/projects/lwc_django/src/lwc_django/views.py",
+		"/Users/cward/projects/lwc_django/src/templates/donotuse.html",
+		"/Users/cward/projects/lwc_django/src/joins/views.py",
+		"/Users/cward/projects/lwc_django/src/joins/models.py",
+		"/Users/cward/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cward/projects/lwc_django/src/lwc_django/middleware.py",
+		"/Users/cward/projects/lwc_django/src/joins/forms.py",
+		"/Users/cward/projects/lwc_django/src/lwc_django/settings.py",
+		"/Users/cward/projects/lwc_django/src/joins/admin.py",
+		"/Users/cward/projects/lwc",
+		"/Users/cward/projects/trydjango19/src/posts/templatetags/__init__.py",
+		"/Users/cward/projects/trydjango19/src/posts/templatetags/urlify.py",
+		"/Users/cward/projects/trydjango19/src/trydjango19/urls.py",
+		"/Users/cward/projects/trydjango19/src/posts/urls.py",
+		"/Users/cward/projects/trydjango19/src/templates/post_list.html",
+		"/Users/cward/projects/trydjango19/src/templates/post_detail.html",
+		"/Users/cward/projects/trydjango19/src/templates/post_form.html",
+		"/Users/cward/projects/trydjango19/src/posts/admin.py",
+		"/Users/cward/projects/trydjango19/src/templates/base.html",
+		"/Users/cward/projects/trydjango19/src/templates/messages_display.html",
+		"/Users/cward/projects/trydjango19/src/templates/index.html",
+		"/Users/cward/projects/trydjango19/src/posts/forms.py",
+		"/Users/cward/projects/trydjango19/src/trydjango19/settings.py",
+		"/Users/cward/projects/trydjango19/src/crud.md",
+		"/Users/cward/lpthw/ex38.py",
+		"/Users/cward/lpthw/ex35.py",
+		"/Users/cward/lpthw/ex34.py",
+		"/Users/cward/lpthw/ex33.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/cward/projects/blog_django",
+			"/Users/cward/projects/eCommerce2/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"X Post",
+			"child",
+			"pagination",
+			"CommentSerializer",
+			"parent",
+			"requst",
+			"Commment =",
+			"pagination",
+			"numbe",
+			"PostPageNumberPagination",
+			"markdown",
+			"	def has_object_permission(self, request, view, obj):",
+			"crispy",
+			"super",
+			"Ballard",
+			"abc",
+			"parnet",
+			"comment_form",
+			"trydjango19",
+			"bootstrap",
+			";\n",
+			"faq",
+			"font",
+			"provided",
+			"footer",
+			"alt",
+			"Ballard ",
+			"Ballard",
+			"png",
+			"jpeg",
+			"jpg",
+			"jpeg",
+			"jp",
+			"jpg",
+			"h1",
+			"Categoy",
+			"Categorys",
+			"Prodcut",
+			"price",
+			"trydjango18",
+			"*",
+			"wsgi",
+			"Earn Re",
+			"<hr",
+			" }};",
+			"print",
+			"related_name",
+			"print",
+			"publish",
+			"contacts",
+			" irst",
+			"irst",
+			"navbar-fixed-top",
+			"top-nav-collapse",
+			"top: 20",
+			"top",
+			"20",
+			"fixed",
+			"navbar-fixed-top",
+			"test",
+			"bubble",
+			"before",
+			"width",
+			"font",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blog",
+			"eCommerce2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tryangular15.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
