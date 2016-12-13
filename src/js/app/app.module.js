@@ -1,3 +1,10 @@
 'use strict';
 
-angular.module('tryang', ['blogList']);
+angular.module('tryang', [
+    // external
+    'ngResource',
+    'ngRoute',
+
+    // internal
+    'blogList'
+]);
