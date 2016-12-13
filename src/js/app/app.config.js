@@ -22,11 +22,8 @@ angular.module('tryang').
 				when("/about/", {
 					templateUrl: "/templates/about.html"
 				}).
-				when("/blog/1/", {
-					template: "<h1>Hi</h1>"
-				}).
-				when("/blog/2/", {
-					template: "<blog-list></blog-list>"
+				when("/blog/:id/", {
+					template: "<blog-detail></blog-detail>"
 				}).
 				otherwise({
 					template: "Not Found"
