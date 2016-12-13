@@ -12,12 +12,15 @@ angular.module('tryang').
 				enabled:true
 			})
 
-			// $resourceProvider.defaults.stripTrailingSlashes = true;
+			$resourceProvider.defaults.stripTrailingSlashes = true;
 
 
 			$routeProvider.
 				when("/", {
 					template: "<blog-list></blog-list>"
+				}).
+				when("/about/", {
+					templateUrl: "/templates/about.html"
 				}).
 				when("/blog/1/", {
 					template: "<h1>Hi</h1>"
