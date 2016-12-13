@@ -1,4 +1,3 @@
 'use strict';
 
-angular.module('tryang').
-	config(function(){});
+angular.module('tryang', ['blogList']);
