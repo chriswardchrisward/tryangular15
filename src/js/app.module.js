@@ -1,3 +1,4 @@
 'use strict';
 
-angular.module('tryang', []);
+angular.module('tryang').
+	config(function(){});
