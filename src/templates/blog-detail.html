@@ -10,7 +10,7 @@
 	<li>
 		<input type="text" ng-model='query' placeholder='Filter Commetns'/>
 	</li>
-	<li ng-repeat='comment in post.comments | filter: query'>{{ comment.text }}</li>
+	<li ng-repeat='comment in post.comments | filter: query'>{{ comment.text }} <a href="#" confirm-click='Do you want to delete this?' confirmed-click='deleteComment(comment)'>Confirm</a> <a href="#" ng-click='deleteComment(comment)'>Delete</a></li>
 </ul>
 
 <p style='color:red;' ng-if='reply'>Preview: {{ reply.text }}</p>
