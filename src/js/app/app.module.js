@@ -7,5 +7,6 @@ angular.module('tryang', [
 
     // internal
     'blogDetail',
-    'blogList'
+    'blogList',
+    'confirmClick',
 ]);
