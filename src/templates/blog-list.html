@@ -7,8 +7,8 @@
 <span ng-if='items.length ==0'>Posts coming soon</span>
 
 
-<div class=row ng-repeat='items in colItems'>
-	<div class="{{ cssClass }}" ng-repeat='post in items | filter: query'>
+<div class=row dir-paginate='items in colItems | filter: query | itemsPerPage: 4 as mainItems' pagination-id="main-content">
+	<div class="{{ cssClass }}" ng-repeat='post in items'>
 		<div class="thumbnail">
 		<img src="..." alt="...">
 			<div class="caption">
@@ -19,6 +19,9 @@
 		</div>
 	</div>
 </div>
+
+<span ng-if='mainItems.length == 0'>No Items Foun</span>
+<dir-pagination-controls ng-hide='query.length > 0' pagination-id="main-content"> </dir-pagination-controls>
 
 <!-- <div class="row">
   <div class="col-sm-6 col-md-4" ng-repeat='post in items'>
