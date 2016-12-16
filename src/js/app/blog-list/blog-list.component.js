@@ -4,6 +4,12 @@ angular.module('blogList').
 	component('blogList', {
 		templateUrl: '/templates/blog-list.html',
 		controller: function(Post, $location, $routeParams, $rootScope, $scope){
+			var q = $location.search().q
+			if (q) {
+				$scope.query = q
+				$scope.searchQuery = true;
+			}
+			$scope.order = "-publishDate"
 			$scope.goToItem = function(post){
 				$rootScope.$apply(function(){
 					$location.path("/blog/" +  post.id)
@@ -24,6 +30,9 @@ angular.module('blogList').
 				if($scope.query) {
 					$scope.loadingQuery = true
 					$scope.cssClass = 'col-sm-12'
+					if ($socpe.query != q) {
+						$scope.searchQuery = false
+					}
 				} else {
 					if ($scope.loadingQuery) {
 						setupCol($scope.items, 2)

@@ -1,14 +1,16 @@
 [
-	{"title": "Title Number 1", "id": 1, "description": "This is the first description", "publishDate": "2016 09 14",
+	{"title": "Cherry", "id": 1, "description": "This is the first description", "publishDate": "2016 09 14",
 					"comments": [
 						{"id": 1, "text": "Nice book"},
 						{"id": 2, "text": "Another comment"}
-					]},
-	{"title": "Title Number 2", "id": 2, "description": "This is the seccond description"},
-	{"title": "Title Number 3", "id": 3, "description": "This is the third description"},
-	{"title": "Title Number 4", "id": 4, "description": "This is the fourth description"},
-	{"title": "Title Number 5", "id": 5, "description": "This is the fif description"},
-	{"title": "Title Number 6", "id": 6, "description": "This is the sixth description"},
+					],
+					"image": "https://s-media-cache-ak0.pinimg.com/736x/73/76/83/73768370106f3b7df9f0cde2dbd30a1d.jpg"
+	},
+	{"title": "Banana", "id": 2, "description": "This is the seccond description", "publishDate": "2016 24 19", "image": "/img/2.jpg"},
+	{"title": "Pickle", "id": 3, "description": "This is the third description", "publishDate": "2016 03 19", "image": "/img/1.gif"},
+	{"title": "Durian", "id": 4, "description": "This is the fourth description", "publishDate": "2016 08 08", "image": "/img/4.jpg"},
+	{"title": "Apple", "id": 5, "description": "This is the fif description", "publishDate": "2016 09 14", "image": "/img/3.jpeg"},
+	{"title": "Egg", "id": 6, "description": "This is the sixth description", "publishDate": "2011 11 11", "image": "/img/5.jpg"},
 	{"title": "Title Number 7", "id": 7, "description": "This is the seventh description"},
 	{"title": "Title Number 8", "id": 8, "description": "This is the eighth description"},
 	{"title": "Title Number 3", "id": 9, "description": "This is the ninth description"},

@@ -13,6 +13,7 @@
     <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0/angular.min.js'></script>
     <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0/angular-resource.js'></script>
     <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0/angular-route.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.3.1/ui-bootstrap-tpls.min.js'></script>
     
     <script src='/js/external/dirPagination.js' ></script>
     <script src='/js/app/app.module.js' ></script>
@@ -29,6 +30,9 @@
     <script src='/js/app/utils/confirm-click/confirm-click.module.js' ></script>
     <script src='/js/app/utils/confirm-click/confirm-click.directive.js' ></script>
 
+    <script src='/js/app/utils/tryang-nav/tryang-nav.module.js' ></script>
+    <script src='/js/app/utils/tryang-nav/tryang-nav.directive.js' ></script>
+
 	<style>
 		.new-class {
 			font-size: 72px;
@@ -43,13 +47,9 @@
 	</style>
 </head>
 <body>
-    <nav class='container'>
-        <h1>Nav</h1>
-    </nav>
-
-	<div ng-view class='container'>
-		
-	</div>
-
+    <div class='container'>
+        <tryang-nav></tryang-nav>
+	   <div ng-view class='col-sm-12'></div>
+    </div>
 </body>
 </html>
