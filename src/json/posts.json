@@ -11,7 +11,7 @@
 	{"title": "Durian", "id": 4, "description": "This is the fourth description", "publishDate": "2016 08 08", "image": "/img/4.jpg"},
 	{"title": "Apple", "id": 5, "description": "This is the fif description", "publishDate": "2016 09 14", "image": "/img/3.jpeg"},
 	{"title": "Egg", "id": 6, "description": "This is the sixth description", "publishDate": "2011 11 11", "image": "/img/5.jpg"},
-	{"title": "Title Number 7", "id": 7, "description": "This is the seventh description"},
+	{"title": "Greenman", "id": 7, "description": "Greenman is saving your life right now, bro", "publishDate": "2011 11 11","image": "/img/6.gif"},
 	{"title": "Title Number 8", "id": 8, "description": "This is the eighth description"},
 	{"title": "Title Number 3", "id": 9, "description": "This is the ninth description"},
 	{"title": "Title Number 4", "id": 10, "description": "This is the tenth description"},
